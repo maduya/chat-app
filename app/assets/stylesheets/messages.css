@@ -78,7 +78,7 @@ text-decoration: none;
   text-decoration: none;
 }
 
-.main-body {
+.messages {
   background-color: #fafafa;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
@@ -114,20 +114,20 @@ text-decoration: none;
 }
 
 
-.main-foot {
+.form {
   background-color: #dddddd;
   height: 90px;
   padding: 20px 40px;
   display: flex;
 }
 
-.message-form {
+.form-input {
   width: 100%;
   background-color: white;
   display: flex;
 }
 
-.form-text {
+.form-message {
   border: none;
   height: 50px;
   width: 100%;
